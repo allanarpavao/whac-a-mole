@@ -1,3 +1,7 @@
+
+[![Português](https://img.shields.io/badge/PT-blue)](README_pt.md)
+[![English](https://img.shields.io/badge/EN-blue)](README.md)
+
 # 🎯 Whac-A-Mole Game
 
 A classic whac-a-mole browser game built with HTML, CSS, and JavaScript. This project was designed by Professor Alexandre Meslin from PUC-RIO.
@@ -29,6 +33,7 @@ This is a web-based implementation of the classic whac-a-mole arcade game. Playe
 
 ## 📁 Repository Overview
 
+```text
 ├── css/
 │ └── style.css # Main stylesheet
 ├── javascript/
@@ -38,6 +43,7 @@ This is a web-based implementation of the classic whac-a-mole arcade game. Playe
 ├── tabuleiro.html # Game board page
 ├── regras.html # Game rules page
 ├── recordes.html # Records/scores page
+```
 
 ## 🚀 Getting Started
 
